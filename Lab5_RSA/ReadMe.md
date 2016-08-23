@@ -1,1 +1,0 @@
-![](https://github.com/isaiMercado/Computer-Security-Class-Projects/tree/master/Lab5_RSA/Images/rsa.jpg)
